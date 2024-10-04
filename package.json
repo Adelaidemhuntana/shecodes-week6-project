@@ -2,7 +2,6 @@
   "name": "ops-challenge",
   "version": "1.0.0",
   "description": "A simple weather application that provides current weather data based on user input.",
-  "main": "index.html",
   "scripts": {
     "start": "parcel index.html --open",
     "build": "parcel build index.html"
